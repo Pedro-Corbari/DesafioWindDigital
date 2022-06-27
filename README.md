@@ -8,7 +8,6 @@ link do teste: https://github.com/alanopatricio/desafio-wind
 
 ## Principais Bibliotecas
 - pandas
-- pyautogui
 - wget
 
 ## Funcionamento Básico:
